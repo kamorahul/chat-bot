@@ -16,7 +16,7 @@ exports.insertDocument = function(doc,callback) {
 
 
 exports.findDocument = function (query,callback) {
-	var data
+	// var data
 	mongoClient.connect(url, function(err, db) {
 	var cursor =db.collection('bot_users').findOne(query,function (err,document) {
 		console.log(document)

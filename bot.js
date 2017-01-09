@@ -59,11 +59,3 @@ controller.hears(['.*'], 'message_received', function(bot, message) {
 }
 });
 
-// access token
-// EAABzdgfLfQsBANfaPJrrmLsAku0AVO3yvNxomxbP9JECrFj03GoQwPerdYUOU2qhqlCpJkTAafpUNQQvxtZBxucBjlIIjgaRQpV5pMnUu6fpoFR7pgms7wurjxpHZCwGah2EHzSFGf5wS0XkZCV4VtgSSHZADttZAnzZB4TbM1WgZDZD
-
-//EAABzdgfLfQsBABCZAfECJDEIJCJr88pEoFVg8fCqsyHb1uEmAyZCPWqSUlZCrMSZCfyfjR7qbwDCo6Pc0XzAqEyoqPdoOo7dGQJC2FZAB8u1GsdXVbwZCYy2AI4BZAQ9jI7pMBbxh5DMjJEtjZAglUTQt1aKqzPP65GZCzdIQJdrAjQZDZD
-// msccs35
-
-// 
-// page_token=EAABzdgfLfQsBANfaPJrrmLsAku0AVO3yvNxomxbP9JECrFj03GoQwPerdYUOU2qhqlCpJkTAafpUNQQvxtZBxucBjlIIjgaRQpV5pMnUu6fpoFR7pgms7wurjxpHZCwGah2EHzSFGf5wS0XkZCV4VtgSSHZADttZAnzZB4TbM1WgZDZD verify_token=msccs35 node facebook_bot.js --lt
